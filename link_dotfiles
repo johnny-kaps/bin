@@ -1,0 +1,21 @@
+
+#!/usr/bin/env bash
+
+files=$HOME/.dotfiles/*
+home=$HOME
+ 
+for f in $files
+do
+   filename=$(basename $f)
+   echo "deleting .$filename"
+   rm -f $home/.$filename
+   echo "linking $filename"
+   ln -s $f $home/.$filename
+   echo "--------------------------"
+done
+
+
+
+
+
+
