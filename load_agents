@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+
+echo "Loading SSH Agents. Please provide passwords."
+eval $(ssh-agent -s)
+ssh-add ~/.ssh/jk_gh_xubuntu
+ssh-add ~/.ssh/jk_bb_xubuntu
+echo "Load process closed."
+
