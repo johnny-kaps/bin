@@ -4,7 +4,7 @@
 file=terminalrc
 home=$HOME
 
-yes | cp -rf $home/$file $home/.config/xfce4/terminal/
+yes | cp -f $home/bin/$file $home/.config/xfce4/terminal/
 echo "Terminal settings updated"
 
 
