@@ -1,0 +1,27 @@
+[Configuration]
+ColorSelection=#16163b3b5959
+ColorSelectionUseDefault=FALSE
+FontName=DejaVu Sans Mono 12
+MiscAlwaysShowTabs=FALSE
+MiscBell=FALSE
+MiscBordersDefault=TRUE
+MiscCursorBlinks=FALSE
+MiscCursorShape=TERMINAL_CURSOR_SHAPE_BLOCK
+MiscDefaultGeometry=80x24
+MiscInheritGeometry=FALSE
+MiscMenubarDefault=TRUE
+MiscMouseAutohide=FALSE
+MiscToolbarDefault=FALSE
+MiscConfirmClose=TRUE
+MiscCycleTabs=TRUE
+MiscTabCloseButtons=TRUE
+MiscTabCloseMiddleClick=TRUE
+MiscTabPosition=GTK_POS_TOP
+MiscHighlightUrls=TRUE
+MiscScrollAlternateScreen=TRUE
+TabActivityColor=#262656568080
+ColorCursor=#cbd6e2
+ColorForeground=#cbd6e2
+ColorBackground=#0b1c2c
+ColorPalette=#090903030000;#f6f6b8b85656;#0101a2a25252;#fefedada7575;#0101a0a0e4e4;#b6b6b3b3ebeb;#56568b8bbfbf;#cbcbd6d6e2e2;#62627e7e9999;#bfbfbfbf5656;#22223b3b5454;#40405c5c7979;#aaaabcbccece;#e5e5ebebf1f1;#bfbf56565656;#f7f7f9f9fbfb
+

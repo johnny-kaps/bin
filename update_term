@@ -1,0 +1,10 @@
+
+#!/usr/bin/env bash
+
+file=terminalrc
+home=$HOME
+
+yes | cp -rf $home/$file $home/.config/xfce4/terminal/
+echo "Terminal settings updated"
+
+
